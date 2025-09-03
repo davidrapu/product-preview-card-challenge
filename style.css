@@ -102,10 +102,7 @@ button img{
     }
 }
 
-@media (min-width: 46.8750em) and (max-width: 1400px) { /* 750 px */
-    main{
-        /* margin: 0; */
-    }
+@media (min-width: 46.8750em) { /* 750 px */
     .info {
         p{
             font-size: 0.6em;
@@ -134,7 +131,7 @@ button img{
     }
 }
 
-@media (min-width: 62.5000em) and (max-height: 1400px){ /* 1000 px */
+@media (min-width: 62.5000em) and (max-height: 56.2500em){ /* 1000 px */
     body{
         justify-content: center;
     }
